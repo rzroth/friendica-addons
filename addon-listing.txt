@@ -1,0 +1,343 @@
+friendica-addon-listing.txt lines 1-22/336 6%...skipping...
+Addon: advancedcontentfilter
+ * Name: Advanced content Filter
+ * Description: Expression-based content filter
+
+Addon: blackout
+ * Name: blackout
+ * Description: Blackout your ~friendica node during a given period
+
+Addon: blockbot
+ * Name: blockbot
+ * Description: Blocking bots based on detecting bots/crawlers/spiders via the user agent and http_from header.
+
+Addon: blockem
+ * Name: blockem
+ * Description: Allows users to hide content by collapsing posts and replies.
+
+Addon: blogger
+ * Name: Blogger Post Connector
+ * Description: Post to Blogger (or anything else which uses blogger XMLRPC API)
+Addon: buffer
+ * Name: Buffer Post Connector
+ * Description: Post to Buffer (Facebook Pages, LinkedIn, Twitter)
+
+Addon: buglink
+ * Name: BugLink
+ * Description: Show link to Friendica bug site at bottom of page
+
+Addon: calc
+ * Name: Calculator App
+ * Description: Simple Calculator Application
+
+Addon: catavatar
+ * Name: Cat Avatar Generator
+ * Description: Generate a default avatar based on David Revoy's cat-avatar-generator https://framagit.org/Deevad/cat-avatar-generator
+
+Addon: convert
+ * Name: Converter App
+ * Description: Unit converter application
+
+Addon: cookienotice
+ * Name: Cookie Notice
+ * Description: Configure, show and handle a simple cookie notice
+
+Addon: curweather
+ * Name: Current Weather
+ * Description: Shows current weather conditions for user's location on their network page.
+
+Addon: diaspora
+ * Name: Diaspora Post Connector
+ * Description: Post to Diaspora
+
+Addon: discourse
+ * Name: Discourse Mail Connector
+ * Description: Improves mails from Discourse in mailing list mode
+
+Addon: dwpost
+ * Name: Dreamwidth Post Connector
+ * Description: Post to dreamwidth
+
+Addon: forumdirectory
+ * Name: Forum Directory
+ * Description: Add a directory of forums hosted on your server, with verbose descriptions.
+
+Addon: fromapp
+ * Name: FromApp
+ * Description: Change the displayed application you are posting from
+
+Addon: geocoordinates
+ * Name: Geocoordinates
+ * Description: Use the OpenCage Geocoder http://geocoder.opencagedata.com to resolve nearest populated location for given latitude, longitude. Derived from "geonames"
+
+Addon: geonames
+ * Name: Geonames
+ * Description: Use Geonames service to resolve nearest populated location for given latitude, longitude
+
+Addon: gnot
+ * Name: Gnot
+ * Description: Thread email comment notifications on Gmail and anonymise them
+
+Addon: googlemaps
+ * Name: Google Maps
+ * Description: Use Google Maps for displaying locations. After activation the post location just beneath your avatar in your posts will link to Google Maps.
+
+Addon: gravatar
+ * Name: Gravatar Support
+ * Description: If there is no avatar image for a new user or contact this addon will look for one at Gravatar.
+
+Addon: group_text
+ * Name: Group Text
+ * Description: Disable images in group edit menu
+
+Addon: highlightjs
+ * Name: Syntax Highlighting
+ * Description: Highlights syntax of code blocks with highlight.js
+
+Addon: ifttt
+ * Name: IFTTT Receiver
+ * Description: Receives a post from https://ifttt.com/ and distributes it.
+
+Addon: ijpost
+ * Name: Insanejournal Post Connector
+ * Description: Post to Insanejournal
+
+Addon: impressum
+ * Name: Impressum
+ * Description: Addon to add contact information to the about page (/friendica)
+
+Addon: infiniteimprobabilitydrive
+* Name: Infinite Improbability Drive
+* Description: Infinitely Improbably Find A Random User
+
+Addon: irc
+* Name: IRC Chat Addon
+* Description: add an Internet Relay Chat chatroom on freenode
+
+Addon: jappixmini
+ * Name: jappixmini
+ * Description: Provides a Facebook-like chat using Jappix Mini
+
+Addon: js_upload
+ * Name: JS Uploader
+ * Description: JavaScript photo/image uploader. Uses Valum 'qq' Uploader.
+
+Addon: krynn
+ * Name: Dragonlance Krynn locales
+ * Description: Set a random locale from the Dragonlance Realm of Krynn when posting. Based on the planets frindica addon by Mike Macgirvin and Tony Baldwin
+
+Addon: langfilter
+ * Name: Language Filter
+ * Description: Filters out postings in languages not spoken by the users
+
+Addon: ldapauth
+ * Name: LDAP Authenticate
+ * Description: Authenticate a user against an LDAP directory
+
+Addon: leistungsschutzrecht
+ * Name: Leistungsschutzrecht
+ * Description: Only useful in germany: Remove data from snippets from members of the VG Media
+
+Addon: libertree
+ * Name: Libertree Post Connector
+ * Description: Post to libertree accounts
+
+Addon: libravatar
+ * Name: Libravatar Support
+ * Description: If there is no avatar image for a new user or contact this addon will look for one at Libravatar. Please disable Gravatar addon if you use this one. (requires PHP >= 5.3)
+
+Addon: ljpost
+ * Name: LiveJournal Post Connector
+ * Description: Post to LiveJournal
+
+Addon: mahjongg
+ * Name: Mah Jongg
+ * Description: Ancient Chinese puzzle game that never gets old.
+
+Addon: mailstream
+ * Name: Mail Stream
+ * Description: Mail all items coming into your network feed to an email address
+Addon: markdown
+ * Name: Markdown
+ * Description: Parse Markdown code when creating new items
+
+Addon: mastodoncustomemojis
+ * Name: Mastodon Custom Emojis
+ * Description: Replace emojis shortcodes in Mastodon posts with their originating server custom emojis images.
+
+Addon: mathjax
+ * Name: MathJax
+ * Description: Addon for Friendica to include MathJax (LaTeX math syntax)
+
+Addon: membersince
+ * Name: MemberSince
+ * Description: Display membership date in profile
+
+Addon: morechoice
+ * Name: More Choice
+ * Description: Additional gender/sexual preference/marital status options
+
+Addon: morepokes
+ * Name: More Pokes
+ * Description: Additional poke options
+
+Addon: namethingy
+ * Name: NameThingy
+ * Description: The Ultimate Random Name Generator
+
+Addon: newmemberwidget
+ * Name: New Member Widget
+ * Description: Adds a widget for new members into the sidebar of the network page. The widget will be displayed for the 1st 14days of a account existance and contains a link to the new member page and a free-form text the admin can define.
+Addon: notifyall
+ * Name: Notifyall
+ * Description: Send admin email message to all account holders. <b>-><a href=/notifyall TARGET = "_blank">send now!</a><-</b>
+
+Addon: notimeline
+ * Name: Notimeline
+ * Description: Disable "Archives" widget on profile page
+
+Addon: nsfw
+ * Name: NSFW
+ * Description: Collapse posts with inappropriate content
+ 
+ Addon: numfriends
+ * Name: Numfriends
+ * Description: Change number of contacts shown of profile sidebar
+
+Addon: openstreetmap
+ * Name: OpenStreetMap
+ * Description: Use OpenStreetMap for displaying locations. After activation the
+ post location just beneath your avatar in your posts will link to OpenStreetMap
+.
+
+Addon: pageheader
+ * Name: Page Header
+ * Description: Inserts a page header
+
+Addon: phpmailer
+ * Name: PHP Mailer SMTP
+ * Description: Connects to a SMTP server based on the config
+
+Addon: piwik
+ * Name: Matomo / Piwik Analytics
+ * Description: Matomo / Piwik Analytics Addon for Friendica
+
+Addon: planets
+ * Name: Random Planet, Empirial Version
+ * Description: Sample Friendica addon. Set a random planet from the Emprire whe
+n posting.
+
+Addon: public_server
+ * Name: public_server
+ * Description: Friendica addon with functions suitable for a public server. WAR
+NING: This addon is currently not well maintained. It may produce unexpected res
+ults. Use with caution!
+
+Addon: pumpio
+ * Name: pump.io Post Connector
+ * Description: Bidirectional (posting, relaying and reading) connector for pump
+.io.
+
+Addon: qcomment
+ * Name: Quick Comment
+ * Description: Two click comments
+
+Addon: randplace
+ * Name: Random place
+ * Description: Sample Friendica addon. Set a random place when posting.
+
+Addon: remote_permissions
+ * Name: Remote Permissions
+ * Description: Allow the recipients of private posts to see who else can see th
+e post by clicking the lock icon
+
+Addon: rendertime
+ * Name: rendertime
+ * Description: Shows the time that was needed to render the current page
+ 
+ Addon: securemail
+ * Name: Secure Mail
+ * Description: Send notification mail encrypted with user-defined public GPG key
+
+Addon: showmore
+ * Name: Show More
+ * Description: Collapse posts
+
+Addon: showmore_dyn
+ * Name: Showmore Dynamic
+ * Description: Dynamically limits height of posts
+
+Addon: smiley_pack
+ * Name: Smiley Pack
+ * Description: Pack of smileys that make master too AOLish.
+
+Addon: smileybutton
+ * Name: Smileybutton
+ * Description: Adds a smileybutton to the Inputbox
+
+Addon: smilies_adult
+ * Name: Adult Smilies
+ * Description: Smily icons that could or should not be included in core
+
+Addon: sniper
+ * Name: Sniper
+ * Description: Basic demonstration of flash game addons for Friendica
+
+Addon: startpage
+ * Name: Start Page
+ * Description: Set a preferred page to load on login from home page
+
+Addon: statusnet
+ * Name: GNU Social Connector
+ * Description: Bidirectional (posting, relaying and reading) connector for GNU Social.
+
+Addon: superblock
+ * Name: superblock
+ * Description: block people
+
+Addon: testdrive
+ * Name: testdrive
+ * Description: Sample Friendica addon for creating a test drive Friendica site with automatic account expiration.
+
+Addon: tictac
+ * Name: TicTac App
+ * Description: The TicTacToe game application
+
+Addon: tumblr
+ * Name: Tumblr Post Connector
+ * Description: Post to Tumblr
+
+Addon: twitter
+ * Name: Twitter Connector
+ * Description: Bidirectional (posting, relaying and reading) connector for Twitter.
+
+Addon: unicode_smilies
+ * Name: Unicode Smilies
+ * Description: Smilies based on the unicode emojis - On Linux use https://github.com/eosrei/emojione-color-font to see them in color and http://www.unicode.org/emoji/charts/full-emoji-list.html
+
+Addon: viewsrc
+ * Name: viewsrc
+ * Description: Add "View Source" link to item context
+
+Addon: webrtc
+ * Name: WebRTC Application
+ * Description: add a webrtc instance for video/audio
+
+Addon: widgets
+ * Name: Widgets
+ * Description: Allow to embed info from friendica into another site
+
+Addon: windowsphonepush
+ * Name: WindowsPhonePush
+ * Description: Enable push notification to send information to Friendica Mobile app on Windows phone (count of unread timeline entries, text of last posting - if wished by user)
+
+Addon: wppost
+ * Name: WordPress Post Connector
+ * Description: Post to WordPress (or anything else which uses blogger XMLRPC API)
+
+Addon: xmpp
+ * Name: XMPP (Jabber)
+ * Description: Embedded XMPP (Jabber) client
+ 
+ 
+
